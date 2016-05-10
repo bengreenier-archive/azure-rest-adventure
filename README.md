@@ -79,7 +79,7 @@ the following things:
 
 > Todo: we should also validate that the application is actually listening
 
-#### Postone
+### Postone
 
 The postone lesson is where we define our first RESTful endpoint
 for the project. You'll be asked to create an endpoint at
@@ -103,7 +103,7 @@ the following things:
 + your entrypoint outputs "listening on ... 3000" where "..." may be anything
 + your project supports `HTTP POST /items` with a valid body
 
-#### Postmany
+### Postmany
 
 The postmany lesson is where we define a new RESTful endpoint
 for the project. You'll be asked to create an endpoint at
@@ -129,7 +129,7 @@ the following things:
 + your entrypoint outputs "listening on ... 3000" where "..." may be anything
 + your project supports `HTTP POST /items` with a valid body
 
-#### Getone
+### Getone
 
 The getone lesson is where we define a new RESTful endpoint
 for the project. You'll be asked to create an endpoint at
@@ -157,7 +157,7 @@ the following things:
 + your project supports `HTTP GET /items/item-name` and returns a valid response body
 + your project supports `HTTP GET /items/no-such-item` and returns a `404` status code
 
-#### Getmany
+### Getmany
 
 The getmany lesson is where we define a new RESTful endpoint
 for the project. You'll be asked to create an endpoint at
@@ -188,7 +188,7 @@ the following things:
 + your project supports `HTTP POST /items` to create an item,
 followed by `HTTP GET /items` to enumerate all items, including the newly created one.
 
-#### Deleteone
+### Deleteone
 
 The deleteone lesson is where we define a new RESTful endpoint
 for the project. You'll be asked to create an endpoint at
@@ -209,7 +209,7 @@ the following things:
 + your project supports `HTTP POST /items` to create an item,
 followed by `HTTP DELETE /items/item-name` to create and then delete an item.
 
-#### Deletemany
+### Deletemany
 
 The deletemany lesson is where we define a new RESTful endpoint
 for the project. You'll be asked to create an endpoint at
@@ -230,7 +230,7 @@ the following things:
 + your project supports `HTTP POST /items` to create a few items,
 followed by `HTTP DELETE /items` to create and then delete items.
 
-#### Azure
+### Azure
 
 The azure lesson is where we deploy the service to azure and validate
 it's functioning there. You'll be asked to deploy to azure.
