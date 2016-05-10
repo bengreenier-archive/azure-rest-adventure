@@ -1,0 +1,27 @@
+{
+  "name": "azure-rest-adventure",
+  "version": "0.1.0",
+  "description": "go on a RESTful adventure to create a service on azure",
+  "main": "runner.js",
+  "bin": {
+    "azradv": "runner.js",
+    "azure-rest-adventure": "runner.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "azure",
+    "rest",
+    "adventure",
+    "workshopper"
+  ],
+  "author": "Ben Greenier",
+  "license": "MIT",
+  "dependencies": {
+    "adventure": "^2.11.0",
+    "adventure-verify": "^2.2.0",
+    "bluebird": "^3.3.5",
+    "request-promise": "^3.0.0"
+  }
+}
