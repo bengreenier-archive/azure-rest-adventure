@@ -32,7 +32,7 @@ It will support creating new items, listing items, querying specific items, and 
 
 > This is what you see when you run `azradv`
 
-![Main screen](./readme-deps/main-screen.png)
+![Main screen](./readme-deps/main-screen.PNG)
 
 The list shows all the different segments of the lesson,
 listed in the order they should be completed. Selecting
