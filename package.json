@@ -23,5 +23,17 @@
     "adventure-verify": "^2.2.0",
     "bluebird": "^3.3.5",
     "request-promise": "^3.0.0"
-  }
+  },
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bengreenier/azure-rest-adventure.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bengreenier/azure-rest-adventure/issues"
+  },
+  "homepage": "https://github.com/bengreenier/azure-rest-adventure#readme"
 }
