@@ -1,7 +1,7 @@
 azure-rest-adventure
 ====================
 
-A service writing adventure with a focus on azure
+go on a RESTful adventure to create a service on azure
 
 # What
 
