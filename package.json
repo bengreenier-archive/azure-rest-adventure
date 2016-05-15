@@ -1,6 +1,6 @@
 {
   "name": "azure-rest-adventure",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "go on a RESTful adventure to create a service on azure",
   "main": "runner.js",
   "bin": {
